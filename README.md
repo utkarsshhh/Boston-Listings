@@ -17,7 +17,7 @@ I am using the open dataset available on kaggle https://www.kaggle.com/datasets/
 
 ### Installation
 
-The code is in a jupyter notebook and only requires Python 3.9 to run it 
+The code is in a jupyter notebook Notebook.ipynb and only requires Python 3.9 to run it 
 
 
 ### Libraries
@@ -30,7 +30,7 @@ The following libraries have been used in the code
 
 ## Result
 
-The result can be found [here]()
+The result can be found [here](https://medium.com/@utkarshpadia/how-to-make-inferences-from-data-without-the-use-of-machine-learning-497f5980457)
 
 
 ## Licensing
