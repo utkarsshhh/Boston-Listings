@@ -17,7 +17,8 @@ I am using the open dataset available on kaggle https://www.kaggle.com/datasets/
 
 ### Installation
 
-The code is in a jupyter notebook Notebook.ipynb and only requires Python 3.9 to run it 
+The code is in a jupyter notebook Notebook.ipynb and only requires Python 3.9 to run it
+The code can be found in [this](https://github.com/utkarsshhh/Boston-Listings.git) repository
 
 
 ### Libraries
